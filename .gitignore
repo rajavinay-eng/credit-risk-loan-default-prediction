@@ -1,0 +1,16 @@
+# Data (never upload - Kaggle rules)
+data/
+*.csv
+*.zip
+*.parquet
+*.duckdb
+
+# Secret API key
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
