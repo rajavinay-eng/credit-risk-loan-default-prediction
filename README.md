@@ -2,7 +2,7 @@
 
 I built a model that estimates how likely a loan applicant is to have trouble repaying, explains each decision in plain English, and writes a short credit memo with AI. Then I checked two things most projects skip: whether the AI makes things up, and whether the model treats age groups fairly.
 
-**Live app:** coming soon
+**Live app:** https://credit-risk-rajavinay.streamlit.app
 
 ![Dashboard](dashboard.png)
 
